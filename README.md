@@ -25,3 +25,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+
+##Screenshots
+![Screenshot 2023-07-25 234730](https://github.com/AnkitKrSingh22/KryptoDhan-Crypto/assets/140311561/b8b623db-8d56-49df-85ef-2826a9b39777)
+
+![Screenshot 2023-07-25 234802](https://github.com/AnkitKrSingh22/KryptoDhan-Crypto/assets/140311561/8a6c322f-b9c6-4547-a6e4-38bc466911fe)
